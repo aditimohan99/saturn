@@ -1,0 +1,67 @@
+.nav{
+
+    overflow: hidden;
+} 
+.nav a{
+  float: left;
+  color: #45988e;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.nav :hover{
+    color: #f6b245;
+}
+
+.nav input {
+  float: right;
+  padding: 6px;
+  border: solid #45988e;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 15px;
+}
+
+.header {
+ text-align: center;
+ font-family: 'Raleway', sans-serif;
+ color:#45988e;
+ border: solid;
+ border-color: #d46c4f;
+}
+
+.header2 {
+    overflow: hidden;
+    text-align: center; 
+    color: white;
+    background-color: darkorange;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+#article {
+
+    width: auto;
+    border: 15px black;
+    padding: 50px;
+    margin: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+img {
+    padding: 14px 16px;
+}
+
+#article {
+    font-size: 20px;
+    
+}
